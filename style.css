@@ -1,0 +1,44 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header styling */
+.header {
+    background-color: #6200ea;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+.paragraph {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* Image styling */
+.image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 5px solid #6200ea;
+    border-radius: 10px;
+}
+
+/* Styling for highlighted text */
+.highlight {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blueviolet;
+}
